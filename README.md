@@ -5,12 +5,7 @@ This repository contains a clone of the Algozenith website, created as part of a
 
 ## Features
 - Responsive design that adapts to different screen sizes
-- Navigation menu with links to key pages
 - Hero section with a call-to-action button
-- About section highlighting Algozenith's mission and values
-- Services section showcasing the company's offerings
-- Contact form for users to get in touch
-- Footer with additional links and information
 
 ## Technologies Used
 - React.js library for building the user interface
