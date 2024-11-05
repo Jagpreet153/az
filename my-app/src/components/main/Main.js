@@ -32,13 +32,13 @@ const Main = () => {
     <div className="box-border w-full h-full p-2 sm:p-4 border-[1px] my-2 ml-2 sm:my-6 sm:ml-8 border-solid border-[#A4E6FF] lg:my-24 rounded-lg" style={{marginTop: 40}}>
       <div className="flex flex-col lg:flex-row justify-between">
   <div className="w-full flex flex-col sm:flex-row gap-4 sm:gap-0 justify-between items-start sm:items-center">
-    <div className="toogle flex flex-wrap xs:flex-nowrap justify-around bg-gradient-to-b from-white to-[#F1FBFF] p-2 sm:p-3 rounded-md gap-2 w-full sm:w-auto">
+    <div className="toogle flex flex-wrap xs:flex-nowrap justify-around bg-gradient-to-b from-[#EFF5FF] to-[rgba(239,245,255,0)] p-2 sm:p-3 rounded-md gap-8 w-full sm:w-auto">
       <div className="flex items-center gap-1 p-1 text-xs sm:text-sm md:text-base cursor-pointer whitespace-nowrap">
         <img src={sessions} alt="sessions" className="w-3 sm:w-4 md:w-auto" />
         <p>Mentor Sessions</p>
       </div>
 
-      <div className="flex p-1 items-center gap-1 text-xs sm:text-sm md:text-base border-solid border-gradient bg-[#fff] rounded-md border-2 shadow-md cursor-pointer whitespace-nowrap">
+      <div className="flex p-1 items-center gap-1 text-xs sm:text-sm md:text-base bg-[#fff] border-2 rounded-lg shadow-md shadow-[#29539B4D] shadow-[0px 3.67px 3.67px 0px] cursor-pointer whitespace-nowrap border-[#D2E3FF]">
         <img src={material} alt="sessions" className="w-3 sm:w-4 md:w-auto" />
         <p>Learning Materials</p>
       </div>
