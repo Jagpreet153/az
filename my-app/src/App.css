@@ -1,0 +1,6 @@
+.App{
+  background: linear-gradient(180deg, #FFFFFF 0%, #F1FBFF 100%);
+  margin: 0;
+  padding: 0;  
+  box-sizing: border-box;
+}

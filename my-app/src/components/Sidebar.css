@@ -1,0 +1,10 @@
+.sidebar-item{
+    display: flex;
+    align-items: center;
+    padding: 1rem 2rem 0 2rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    color: #172B4D;
+    gap: 0.5rem
+
+}
